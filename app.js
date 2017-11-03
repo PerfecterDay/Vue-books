@@ -1,10 +1,4 @@
-// new Vue({
-//     el:'#app',
-//     data: {
-//         message:'hello vue.js.'
-//     }
-// });
-
+import Vue from 'vue';
 var app = new Vue({
     el: '#app',
     data: {
